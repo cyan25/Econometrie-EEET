@@ -1,5 +1,6 @@
 # Econometrie-EEET
  
+Click the buttom below to start
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cyan25/Econometrie-EEET/HEAD)
 
 See the instructions:
